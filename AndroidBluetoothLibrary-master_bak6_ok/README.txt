@@ -1,0 +1,1 @@
+Completely working (can autoconnect and automaticly send commands)
