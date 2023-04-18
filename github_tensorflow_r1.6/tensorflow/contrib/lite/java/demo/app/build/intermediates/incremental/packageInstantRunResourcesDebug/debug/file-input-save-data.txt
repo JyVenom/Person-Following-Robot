@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Tue Mar 20 12:01:49 PDT 2018
+1.base=C\:\\Users\\yifeng\\GoogleDrive\\MyStudy\\AI\\tensorflow\\github_tensorflow_r1.6\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\assets\\debug
+2.path=labels.txt
+0.baseType=DIRECTORY
+2.base=C\:\\Users\\yifeng\\GoogleDrive\\MyStudy\\AI\\tensorflow\\github_tensorflow_r1.6\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=BUILD
+0.set=ASSET
+0.base=C\:\\Users\\yifeng\\GoogleDrive\\MyStudy\\AI\\tensorflow\\github_tensorflow_r1.6\\tensorflow\\contrib\\lite\\java\\demo\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=mobilenet_quant_v1_224.tflite

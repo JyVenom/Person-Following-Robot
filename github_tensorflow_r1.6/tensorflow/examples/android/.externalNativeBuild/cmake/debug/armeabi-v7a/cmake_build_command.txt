@@ -1,0 +1,16 @@
+Executable : C:\Users\yifen\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\Users\yifen\Google Drive\MY Study\AI\tensorflow\github_tensorflow_r1.6\tensorflow\examples\android\jni
+-BC:\Users\yifen\Google Drive\MY Study\AI\tensorflow\github_tensorflow_r1.6\tensorflow\examples\android\.externalNativeBuild\cmake\debug\armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\yifen\Google Drive\MY Study\AI\tensorflow\github_tensorflow_r1.6\tensorflow\examples\android\gradleBuild\intermediates\cmake\debug\obj\armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=C:\Users\yifen\AppData\Local\Android\Sdk\ndk-bundle
+-DCMAKE_TOOLCHAIN_FILE=C:\Users\yifen\AppData\Local\Android\Sdk\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\Users\yifen\AppData\Local\Android\Sdk\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_TOOLCHAIN=gcc
+-DANDROID_STL=gnustl_static
+jvmArgs : 
+
